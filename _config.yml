@@ -1,8 +1,8 @@
 # Basic
 title: 陈元昊的小屋
 subtitle: 上善若水，人淡如菊
-welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》,《Swift 进阶》及《集合类型优化》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
-description: 嗨，我是陈元昊 (@onevcat)，啦啦啦。现居上海，华理读研。正在修行，探求创意之源。
+welcome_message: 初来乍到，小白一枚。
+description: 嗨，我是陈元昊，啦啦啦。引用onevcat的模板，尝试创建一个属于自己的博客网页
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://onevcat.com"
@@ -38,8 +38,8 @@ social:
     weibo: onevcat
     github: onevcat
     twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    Tel: 18930260670
+    mail: beanccn@126.com
 
 # Google Analytics
 ga:
