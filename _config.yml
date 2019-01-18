@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
+    - {title: 简历, description: 我的简历, url: 'https://cyh-home.netlify.com'}
     - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
     - {title: 订阅, description: 邮件订阅本站, url: '//objccn.io/subscribe'}
 
